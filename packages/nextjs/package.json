@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "@nhost/react": "workspace:*",
-    "graphql": "16.8.1",
+    "graphql": "16.9.0",
     "isomorphic-unfetch": "^3.1.0",
     "js-cookie": "^3.0.5",
     "xstate": "^4.38.3"
